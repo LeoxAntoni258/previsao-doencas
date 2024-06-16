@@ -9,13 +9,8 @@ Modelagem Preditiva: Implementação e avaliação de diferentes algoritmos de a
 Validação do Modelo: Utilização de técnicas de validação cruzada para assegurar a robustez do modelo.
 Implementação do Modelo: Ferramentas para a aplicação prática do modelo em novos dados.
 API com Flask: Criação de uma API para facilitar a integração e utilização do modelo preditivo.
-Estrutura do Repositório
-data/: Contém os conjuntos de dados utilizados no projeto.
-notebooks/: Notebooks Jupyter com o passo a passo do desenvolvimento do projeto.
-src/: Código-fonte dos scripts de pré-processamento, modelagem, avaliação e implementação da API Flask.
-models/: Modelos treinados e prontos para uso.
-reports/: Relatórios e visualizações geradas durante o projeto.
-app.py: Script principal para executar a API Flask.
+
+executar.py: Script principal para executar a API Flask.
 Como Rodar o Projeto
 
 Clone este repositório:
